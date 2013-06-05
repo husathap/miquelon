@@ -85,6 +85,11 @@ C:\Users\Hubert\Documents\Visual Studio 2012\Projects\Miquelon\Miquelon\bin\Wind
 C:\Users\Hubert\Documents\Visual Studio 2012\Projects\Miquelon\Miquelon\bin\WindowsGL\Debug\MonoGame.Framework.dll
 C:\Users\Hubert\Documents\Visual Studio 2012\Projects\Miquelon\Miquelon\bin\WindowsGL\Debug\OpenTK.dll
 C:\Users\Hubert\Documents\Visual Studio 2012\Projects\Miquelon\Miquelon\bin\WindowsGL\Debug\Tao.Sdl.dll
+C:\Users\Hubert\Documents\Visual Studio 2012\Projects\Miquelon\Miquelon\obj\x86\Debug\Miquelon.csprojResolveAssemblyReference.cache
 C:\Users\Hubert\Documents\Visual Studio 2012\Projects\Miquelon\Miquelon\obj\x86\Debug\Miquelon.exe
 C:\Users\Hubert\Documents\Visual Studio 2012\Projects\Miquelon\Miquelon\obj\x86\Debug\Miquelon.pdb
-C:\Users\Hubert\Documents\Visual Studio 2012\Projects\Miquelon\Miquelon\obj\x86\Debug\Miquelon.csprojResolveAssemblyReference.cache
+C:\Users\Hubert\Documents\Visual Studio 2012\Projects\Miquelon\Miquelon\bin\WindowsGL\Debug\Miquelon.exe.config
+C:\Users\Hubert\Documents\Visual Studio 2012\Projects\Miquelon\Miquelon\bin\WindowsGL\Debug\Miquelon.exe.manifest
+C:\Users\Hubert\Documents\Visual Studio 2012\Projects\Miquelon\Miquelon\bin\WindowsGL\Debug\Miquelon.application
+C:\Users\Hubert\Documents\Visual Studio 2012\Projects\Miquelon\Miquelon\obj\x86\Debug\Miquelon.exe.manifest
+C:\Users\Hubert\Documents\Visual Studio 2012\Projects\Miquelon\Miquelon\obj\x86\Debug\Miquelon.application
