@@ -14,9 +14,6 @@ namespace Miquelon.Shooter.Bullet
     public class Clear : Bullet
     {
 
-        /// <summary>
-        /// The texture of Clear bullet.
-        /// </summary>
         public static Texture2D ClearTexture;
 
         /// <summary>

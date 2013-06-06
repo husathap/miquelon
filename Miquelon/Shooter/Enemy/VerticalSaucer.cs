@@ -24,14 +24,8 @@ namespace Miquelon.Shooter.Enemy
         /// </summary>
         float IntendedY;
 
-        /// <summary>
-        /// The counter of the enemy.
-        /// </summary>
         float counter = 0;
 
-        /// <summary>
-        /// The texture of Saucer.
-        /// </summary>
         public static Texture2D SaucerTexture;
 
         /// <summary>

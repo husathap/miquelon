@@ -9,14 +9,11 @@ namespace Miquelon.Shooter.Bullet
 {
 
     /// <summary>
-    /// Create a Blocky type bullet.
+    /// A class represents a Blocky type bullet.
     /// </summary>
     public class Blocky : Bullet
     {
 
-        /// <summary>
-        /// The texture of Blocky.
-        /// </summary>
         public static Texture2D BlockyTexture;
 
         /// <summary>

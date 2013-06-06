@@ -14,14 +14,8 @@ namespace Miquelon.Shooter.Enemy
     public class Cloud : Enemy
     {
 
-        /// <summary>
-        /// The counter of the enemy.
-        /// </summary>
         float counter = 0;
 
-        /// <summary>
-        /// The texture of Cloud.
-        /// </summary>
         public static Texture2D CloudTexture;
 
         /// <summary>

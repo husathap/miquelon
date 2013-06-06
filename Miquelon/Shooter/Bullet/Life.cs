@@ -13,9 +13,6 @@ namespace Miquelon.Shooter.Bullet
     public class Life : Bullet
     {
 
-        /// <summary>
-        /// The texture of a Life bullet.
-        /// </summary>
         public static Texture2D LifeTexture;
 
         /// <summary>

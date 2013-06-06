@@ -14,17 +14,14 @@ namespace Miquelon.Shooter.Enemy
     public class Epsilon : Enemy
     {
         /// <summary>
-        /// The movement of the enemy.
+        /// The movement vector of the enemy.
         /// </summary>
         Vector2 Movement;
 
-        // The counters for the enemy.
+
         float counter = 0;
         int counter2 = 0;
 
-        /// <summary>
-        /// The texture of Saucer.
-        /// </summary>
         public static Texture2D EpsilonTexture;
 
         /// <summary>

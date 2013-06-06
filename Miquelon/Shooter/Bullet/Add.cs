@@ -14,9 +14,6 @@ namespace Miquelon.Shooter.Bullet
     public class Add : Bullet
     {
 
-        /// <summary>
-        /// The texture of the bullet.
-        /// </summary>
         public static Texture2D AddTexture;
 
         /// <summary>

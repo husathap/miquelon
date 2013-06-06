@@ -12,14 +12,9 @@ namespace Miquelon.Shooter.Bullet
     /// </summary>
     public class PlayerBullet : Bullet
     {
-        /// <summary>
-        /// The player's bullet texture.
-        /// </summary>
+
         public static Texture2D PlayerBulletTexture;
 
-        /// <summary>
-        /// The bullet's random number generator.
-        /// </summary>
         static Random rand = new Random();
 
         /// <summary>

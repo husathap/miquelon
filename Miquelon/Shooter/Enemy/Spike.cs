@@ -12,19 +12,10 @@ namespace Miquelon.Shooter.Enemy
     /// </summary>
     public class Spike : Enemy
     {
-        /// <summary>
-        /// Represent the counter of the enemy.
-        /// </summary>
-        int counter = 0;
 
-        /// <summary>
-        /// Represent the second counter of the enemy.
-        /// </summary>
+        int counter = 0;
         int counter2 = 0;
 
-        /// <summary>
-        /// The random number generator.
-        /// </summary>
         Random rand = new Random();
 
         /// <summary>

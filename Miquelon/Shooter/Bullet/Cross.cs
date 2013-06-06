@@ -13,9 +13,6 @@ namespace Miquelon.Shooter.Bullet
     public class Cross : Bullet
     {
 
-        /// <summary>
-        /// The texture of Cross bullet.
-        /// </summary>
         public static Texture2D CrossTexture;
 
         /// <summary>

@@ -13,9 +13,6 @@ namespace Miquelon.Shooter.Bullet
     public class TinyLaser : Bullet
     {
 
-        /// <summary>
-        /// The texture of Tiny Laser. 
-        /// </summary>
         public static Texture2D TinyLaserTexture;
 
         /// <summary>

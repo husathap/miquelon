@@ -14,9 +14,6 @@ namespace Miquelon.Shooter.Bullet
     public class SmallBullet : Bullet
     {
 
-        /// <summary>
-        /// The texture of the bullet.
-        /// </summary>
         public static Texture2D SmallBulletTexture;
 
         /// <summary>

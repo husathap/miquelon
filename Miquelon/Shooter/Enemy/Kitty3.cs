@@ -13,9 +13,6 @@ namespace Miquelon.Shooter.Enemy
     public class Kitty3 : Enemy
     {
 
-        /// <summary>
-        /// The texture of the enemy.
-        /// </summary>
         public static Texture2D KittyTexture;
 
         /// <summary>
@@ -28,9 +25,6 @@ namespace Miquelon.Shooter.Enemy
         /// </summary>
         Vector2 Movement = new Vector2(-4, 0);
 
-        /// <summary>
-        /// The counter for Kitty.
-        /// </summary>
         int counter = 0;
 
         /// <summary>

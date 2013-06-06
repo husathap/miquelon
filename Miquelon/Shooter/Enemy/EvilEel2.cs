@@ -12,14 +12,9 @@ namespace Miquelon.Shooter.Enemy
     /// </summary>
     public class EvilEel2 : Enemy
     {
-        /// <summary>
-        /// Represent the counter of the enemy.
-        /// </summary>
+
         int counter = 0;
 
-        /// <summary>
-        /// The texture of Evil Eel II.
-        /// </summary>
         public static Texture2D EvilEel2Texture;
 
         /// <summary>

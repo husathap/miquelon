@@ -13,9 +13,6 @@ namespace Miquelon.Shooter.Enemy
     public class Kitty2 : Enemy
     {
 
-        /// <summary>
-        /// The texture of Kitty.
-        /// </summary>
         public static Texture2D KittyTexture;
 
         /// <summary>

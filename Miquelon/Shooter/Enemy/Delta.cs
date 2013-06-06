@@ -14,23 +14,13 @@ namespace Miquelon.Shooter.Enemy
     public class Delta : Enemy
     {
         /// <summary>
-        /// The movement of the enemy.
+        /// The movement vector of the enemy.
         /// </summary>
         Vector2 Movement;
 
-        /// <summary>
-        /// A counter of the enemy.
-        /// </summary>
         float counter = 0;
-
-        /// <summary>
-        /// A counter of the enemy.
-        /// </summary>
         int counter2 = 0;
 
-        /// <summary>
-        /// The texture of Saucer.
-        /// </summary>
         public static Texture2D DeltaTexture;
 
         /// <summary>

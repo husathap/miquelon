@@ -12,14 +12,9 @@ namespace Miquelon.Shooter.Enemy
     /// </summary>
     public class TrackingShooterFish3 : Enemy
     {
-        /// <summary>
-        /// Represent the counter of the enemy.
-        /// </summary>
+
         int counter = 0;
 
-        /// <summary>
-        /// The texture of Tracking Shooter Fish III.
-        /// </summary>
         public static Texture2D TrackingShooterFish3Texture;
 
         /// <summary>

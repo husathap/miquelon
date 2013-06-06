@@ -13,29 +13,14 @@ namespace Miquelon.Shooter.Enemy
     /// </summary>
     public class Bella : Enemy
     {
-        /// <summary>
-        /// Represent a counter of the enemy.
-        /// </summary>
+
         double counter = 0;
-
-        /// <summary>
-        /// Represent a counter of the enemy.
-        /// </summary>
         float counter2 = 0;
-
-        /// <summary>
-        /// Represent a counter of the enemy.
-        /// </summary>
         int counter3 = 0;
 
-        /// <summary>
-        /// The random number generator of the enemy.
-        /// </summary>
+
         Random rand = new Random();
 
-        /// <summary>
-        /// The texture of the final boss.
-        /// </summary>
         public static Texture2D BellaTexture;
 
         /// <summary>

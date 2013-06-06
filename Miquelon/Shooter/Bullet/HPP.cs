@@ -13,9 +13,6 @@ namespace Miquelon.Shooter.Bullet
     public class HPP : Bullet
     {
 
-        /// <summary>
-        /// The texture of the healing bullet.
-        /// </summary>
         public static Texture2D HPPTexture;
 
         /// <summary>

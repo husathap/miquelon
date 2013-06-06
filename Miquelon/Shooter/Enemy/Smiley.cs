@@ -12,19 +12,10 @@ namespace Miquelon.Shooter.Enemy
     /// </summary>
     public class Smiley : Enemy
     {
-        /// <summary>
-        /// Represent the counter of the enemy.
-        /// </summary>
-        int counter = 0;
 
-        /// <summary>
-        /// Represent the second counter of the enemy.
-        /// </summary>
+        int counter = 0;
         float counter2 = 0;
 
-        /// <summary>
-        /// The texture of Ultimate Cytopod.
-        /// </summary>
         public static Texture2D SmileyTexture;
 
         /// <summary>

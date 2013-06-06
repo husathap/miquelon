@@ -12,24 +12,10 @@ namespace Miquelon.Shooter.Enemy
     /// </summary>
     public class MikePeterson : Enemy
     {
-        /// <summary>
-        /// Represent the counter of the enemy.
-        /// </summary>
+
         double counter = 0;
-
-        /// <summary>
-        /// Represent the second counter of the enemy.
-        /// </summary>
         double counter2 = 0;
-
-        /// <summary>
-        /// Represent the third counter of the enemy.
-        /// </summary>
         double counter3 = 0;
-
-        /// <summary>
-        /// Represent the fourth counter of the enemy.
-        /// </summary>
         int counter4 = 0;
 
         Vector2 Movement = new Vector2(0, -4);

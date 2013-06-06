@@ -12,14 +12,9 @@ namespace Miquelon.Shooter.Enemy
     /// </summary>
     public class UltimateBlocky : Enemy
     {
-        /// <summary>
-        /// Represent the counter of the enemy.
-        /// </summary>
+
         int counter = 0;
 
-        /// <summary>
-        /// The texture of Ultimate Cytopod.
-        /// </summary>
         public static Texture2D UltimateCytopodTexture;
 
         /// <summary>

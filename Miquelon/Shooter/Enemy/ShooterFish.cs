@@ -12,14 +12,9 @@ namespace Miquelon.Shooter.Enemy
     /// </summary>
     public class ShooterFish : Enemy
     {
-        /// <summary>
-        /// Represent the counter of the enemy.
-        /// </summary>
+
         int counter = 0;
 
-        /// <summary>
-        /// The texture of the shooter fish.
-        /// </summary>
         public static Texture2D ShooterFishTexture;
 
         /// <summary>

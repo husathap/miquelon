@@ -14,9 +14,6 @@ namespace Miquelon.Shooter.Bullet
     public class Garble : Bullet
     {
 
-        /// <summary>
-        /// The texture of Garble bullet.
-        /// </summary>
         public static Texture2D GarbleTexture;
 
         /// <summary>

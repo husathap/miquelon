@@ -14,9 +14,6 @@ namespace Miquelon.Shooter.Bullet
     public class BigBullet : Bullet
     {
 
-        /// <summary>
-        /// The texture of Big Bullet.
-        /// </summary>
         public static Texture2D BigBulletTexture;
 
         /// <summary>
